@@ -96,7 +96,7 @@ menu ul a {
 
 }
 .projects .titleapp, .projects .titleweb, .projects #titlear {
-  font-size:  clamp(2.0rem, 2.0rem + 30vw, 2.4rem);
+  font-size:  clamp(1.6rem, 1.6rem + 30vw, 2.0rem);
   padding-top: 3rem;
   text-align: center;
 }
