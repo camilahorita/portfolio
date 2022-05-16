@@ -30,7 +30,7 @@ menu {
   margin-top: 8rem;
 }
 menu ul a li {
-  font-size: clamp(2.8rem, 2.8rem + 30vw, 3.4rem)
+  font-size: clamp(2.8rem, 2.8rem + 30vw, 3.4rem);
   letter-spacing: 1px;
   width: 80%;
   margin: 3.6rem auto;
