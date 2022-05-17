@@ -71,6 +71,9 @@ menu ul a li:hover {
     border-radius: 10px 10px 0 0;
     border-color: transparent;
 }
+.buttons button:hover {
+  border-bottom: 4px solid #f0782d;
+}
 .buttons #web {
   border-bottom: 4px solid #f0782d;
 }
