@@ -232,7 +232,7 @@ footer p {
     flex: 0 0 50%;
   }
   .grade .gradetitle, .grade .subjects {
-    min-height: 24rem;
+    height: 28rem;
   }
 
   .projects .titleapp, .projects .titleweb, .projects #titlear {
